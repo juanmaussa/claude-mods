@@ -1,0 +1,8 @@
+{
+  "name": "usage-bars",
+  "version": "0.1.0",
+  "description": "Uso del plan (5h y 7d) como barras minimalistas sobre el prompt, con cuenta regresiva del reinicio y aviso al 90%.",
+  "author": { "name": "Juan Maussa", "url": "https://github.com/juanmaussa" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

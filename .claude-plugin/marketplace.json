@@ -1,0 +1,12 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "Juan Maussa" },
+  "metadata": { "description": "Mods personales para Claude Code hechos con hooks." },
+  "plugins": [
+    {
+      "name": "usage-bars",
+      "source": "./usage-bars",
+      "description": "Uso del plan (5h y 7d) como barras minimalistas sobre el prompt, con reinicio y aviso al 90%."
+    }
+  ]
+}
